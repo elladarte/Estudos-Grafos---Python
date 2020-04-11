@@ -1,0 +1,7 @@
+https://www.ime.usp.br/~yw/publications/books/TeoriaDosGrafos.pdf
+
+https://algoritmosempython.com.br/
+
+https://aprendacompy.readthedocs.io/pt/latest/index.html
+
+https://igraph.org/python/doc/tutorial/tutorial.html#generic-keyword-arguments-of-plot
